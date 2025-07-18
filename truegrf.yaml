@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f152a14d
 license: GPL-2.0
+name: firs-jawa-barat
 type: industry
+url: https://github.com/bintang-461347/firs-jawa-barat
 version: 6
